@@ -1,0 +1,305 @@
+{
+  "pbtResults": {},
+  "executionHistory": {
+    "1. Scaffold project structure and HTML shell": [
+      {
+        "executionId": "83aea630-3db9-477d-be4b-cb98903abb7e",
+        "chatSessionId": "sess_eef36357-3945-4857-af15-46a1519937cc",
+        "timestamp": 1783655256704
+      },
+      {
+        "executionId": "83aea630-3db9-477d-be4b-cb98903abb7e",
+        "chatSessionId": "sess_eef36357-3945-4857-af15-46a1519937cc",
+        "timestamp": 1783655987174
+      },
+      {
+        "executionId": "83aea630-3db9-477d-be4b-cb98903abb7e",
+        "chatSessionId": "sess_eef36357-3945-4857-af15-46a1519937cc",
+        "timestamp": 1783656105821
+      }
+    ],
+    "2.1 Implement `validate(name, amount, category)` in `js/app.js`": [
+      {
+        "executionId": "83aea630-3db9-477d-be4b-cb98903abb7e",
+        "chatSessionId": "sess_eef36357-3945-4857-af15-46a1519937cc",
+        "timestamp": 1783655257260
+      },
+      {
+        "executionId": "83aea630-3db9-477d-be4b-cb98903abb7e",
+        "chatSessionId": "sess_eef36357-3945-4857-af15-46a1519937cc",
+        "timestamp": 1783655270135
+      },
+      {
+        "executionId": "83aea630-3db9-477d-be4b-cb98903abb7e",
+        "chatSessionId": "sess_eef36357-3945-4857-af15-46a1519937cc",
+        "timestamp": 1783655905917
+      }
+    ],
+    "3.1 Implement `loadTransactions()` and `saveTransactions(transactions)` in `js/app.js`": [
+      {
+        "executionId": "83aea630-3db9-477d-be4b-cb98903abb7e",
+        "chatSessionId": "sess_eef36357-3945-4857-af15-46a1519937cc",
+        "timestamp": 1783655257363
+      },
+      {
+        "executionId": "83aea630-3db9-477d-be4b-cb98903abb7e",
+        "chatSessionId": "sess_eef36357-3945-4857-af15-46a1519937cc",
+        "timestamp": 1783655916375
+      },
+      {
+        "executionId": "83aea630-3db9-477d-be4b-cb98903abb7e",
+        "chatSessionId": "sess_eef36357-3945-4857-af15-46a1519937cc",
+        "timestamp": 1783655966290
+      }
+    ],
+    "4.1 Implement `computeTotal(transactions)` and `computeCategoryTotals(transactions)` pure functions in `js/app.js`": [
+      {
+        "executionId": "83aea630-3db9-477d-be4b-cb98903abb7e",
+        "chatSessionId": "sess_eef36357-3945-4857-af15-46a1519937cc",
+        "timestamp": 1783655257442
+      },
+      {
+        "executionId": "83aea630-3db9-477d-be4b-cb98903abb7e",
+        "chatSessionId": "sess_eef36357-3945-4857-af15-46a1519937cc",
+        "timestamp": 1783656149021
+      },
+      {
+        "executionId": "83aea630-3db9-477d-be4b-cb98903abb7e",
+        "chatSessionId": "sess_eef36357-3945-4857-af15-46a1519937cc",
+        "timestamp": 1783656271397
+      }
+    ],
+    "5.1 Implement `renderTransactionList(transactions)` in `js/app.js`": [
+      {
+        "executionId": "83aea630-3db9-477d-be4b-cb98903abb7e",
+        "chatSessionId": "sess_eef36357-3945-4857-af15-46a1519937cc",
+        "timestamp": 1783655257534
+      },
+      {
+        "executionId": "83aea630-3db9-477d-be4b-cb98903abb7e",
+        "chatSessionId": "sess_eef36357-3945-4857-af15-46a1519937cc",
+        "timestamp": 1783656278460
+      },
+      {
+        "executionId": "83aea630-3db9-477d-be4b-cb98903abb7e",
+        "chatSessionId": "sess_eef36357-3945-4857-af15-46a1519937cc",
+        "timestamp": 1783656286634
+      }
+    ],
+    "5.3 Implement `renderTotalBalance(transactions)` in `js/app.js`": [
+      {
+        "executionId": "83aea630-3db9-477d-be4b-cb98903abb7e",
+        "chatSessionId": "sess_eef36357-3945-4857-af15-46a1519937cc",
+        "timestamp": 1783655257598
+      },
+      {
+        "executionId": "83aea630-3db9-477d-be4b-cb98903abb7e",
+        "chatSessionId": "sess_eef36357-3945-4857-af15-46a1519937cc",
+        "timestamp": 1783656279355
+      },
+      {
+        "executionId": "83aea630-3db9-477d-be4b-cb98903abb7e",
+        "chatSessionId": "sess_eef36357-3945-4857-af15-46a1519937cc",
+        "timestamp": 1783656287708
+      }
+    ],
+    "5.4 Implement `renderPieChart(transactions)` in `js/app.js`": [
+      {
+        "executionId": "83aea630-3db9-477d-be4b-cb98903abb7e",
+        "chatSessionId": "sess_eef36357-3945-4857-af15-46a1519937cc",
+        "timestamp": 1783655257660
+      },
+      {
+        "executionId": "83aea630-3db9-477d-be4b-cb98903abb7e",
+        "chatSessionId": "sess_eef36357-3945-4857-af15-46a1519937cc",
+        "timestamp": 1783656293360
+      },
+      {
+        "executionId": "83aea630-3db9-477d-be4b-cb98903abb7e",
+        "chatSessionId": "sess_eef36357-3945-4857-af15-46a1519937cc",
+        "timestamp": 1783656300275
+      }
+    ],
+    "5.5 Implement `showFormErrors(errors)` and `clearFormErrors()` in `js/app.js`": [
+      {
+        "executionId": "83aea630-3db9-477d-be4b-cb98903abb7e",
+        "chatSessionId": "sess_eef36357-3945-4857-af15-46a1519937cc",
+        "timestamp": 1783655257741
+      },
+      {
+        "executionId": "83aea630-3db9-477d-be4b-cb98903abb7e",
+        "chatSessionId": "sess_eef36357-3945-4857-af15-46a1519937cc",
+        "timestamp": 1783656294393
+      },
+      {
+        "executionId": "83aea630-3db9-477d-be4b-cb98903abb7e",
+        "chatSessionId": "sess_eef36357-3945-4857-af15-46a1519937cc",
+        "timestamp": 1783656301009
+      }
+    ],
+    "5.6 Implement `resetForm()` in `js/app.js`": [
+      {
+        "executionId": "83aea630-3db9-477d-be4b-cb98903abb7e",
+        "chatSessionId": "sess_eef36357-3945-4857-af15-46a1519937cc",
+        "timestamp": 1783655257802
+      },
+      {
+        "executionId": "83aea630-3db9-477d-be4b-cb98903abb7e",
+        "chatSessionId": "sess_eef36357-3945-4857-af15-46a1519937cc",
+        "timestamp": 1783656306484
+      },
+      {
+        "executionId": "83aea630-3db9-477d-be4b-cb98903abb7e",
+        "chatSessionId": "sess_eef36357-3945-4857-af15-46a1519937cc",
+        "timestamp": 1783656312646
+      }
+    ],
+    "6.1 Implement `initApp()` in `js/app.js`": [
+      {
+        "executionId": "83aea630-3db9-477d-be4b-cb98903abb7e",
+        "chatSessionId": "sess_eef36357-3945-4857-af15-46a1519937cc",
+        "timestamp": 1783655257858
+      },
+      {
+        "executionId": "83aea630-3db9-477d-be4b-cb98903abb7e",
+        "chatSessionId": "sess_eef36357-3945-4857-af15-46a1519937cc",
+        "timestamp": 1783656317779
+      },
+      {
+        "executionId": "83aea630-3db9-477d-be4b-cb98903abb7e",
+        "chatSessionId": "sess_eef36357-3945-4857-af15-46a1519937cc",
+        "timestamp": 1783656324684
+      }
+    ],
+    "6.2 Implement `handleAddTransaction(event)` in `js/app.js`": [
+      {
+        "executionId": "83aea630-3db9-477d-be4b-cb98903abb7e",
+        "chatSessionId": "sess_eef36357-3945-4857-af15-46a1519937cc",
+        "timestamp": 1783655257925
+      },
+      {
+        "executionId": "83aea630-3db9-477d-be4b-cb98903abb7e",
+        "chatSessionId": "sess_eef36357-3945-4857-af15-46a1519937cc",
+        "timestamp": 1783656318624
+      },
+      {
+        "executionId": "83aea630-3db9-477d-be4b-cb98903abb7e",
+        "chatSessionId": "sess_eef36357-3945-4857-af15-46a1519937cc",
+        "timestamp": 1783656324843
+      }
+    ],
+    "6.3 Implement `handleDeleteTransaction(id)` in `js/app.js`": [
+      {
+        "executionId": "83aea630-3db9-477d-be4b-cb98903abb7e",
+        "chatSessionId": "sess_eef36357-3945-4857-af15-46a1519937cc",
+        "timestamp": 1783655257999
+      },
+      {
+        "executionId": "83aea630-3db9-477d-be4b-cb98903abb7e",
+        "chatSessionId": "sess_eef36357-3945-4857-af15-46a1519937cc",
+        "timestamp": 1783656331977
+      },
+      {
+        "executionId": "83aea630-3db9-477d-be4b-cb98903abb7e",
+        "chatSessionId": "sess_eef36357-3945-4857-af15-46a1519937cc",
+        "timestamp": 1783656338131
+      }
+    ],
+    "7. Checkpoint — Ensure all tests pass": [
+      {
+        "executionId": "83aea630-3db9-477d-be4b-cb98903abb7e",
+        "chatSessionId": "sess_eef36357-3945-4857-af15-46a1519937cc",
+        "timestamp": 1783655258062
+      },
+      {
+        "executionId": "83aea630-3db9-477d-be4b-cb98903abb7e",
+        "chatSessionId": "sess_eef36357-3945-4857-af15-46a1519937cc",
+        "timestamp": 1783656344194
+      },
+      {
+        "executionId": "a916f81c-9d09-4461-a925-57613340f912",
+        "chatSessionId": "sess_eef36357-3945-4857-af15-46a1519937cc",
+        "timestamp": 1783657361629
+      },
+      {
+        "executionId": "a916f81c-9d09-4461-a925-57613340f912",
+        "chatSessionId": "sess_eef36357-3945-4857-af15-46a1519937cc",
+        "timestamp": 1783657374841
+      },
+      {
+        "executionId": "a916f81c-9d09-4461-a925-57613340f912",
+        "chatSessionId": "sess_eef36357-3945-4857-af15-46a1519937cc",
+        "timestamp": 1783657434824
+      }
+    ],
+    "9. Final checkpoint — Ensure all tests pass and app is fully wired": [
+      {
+        "executionId": "83aea630-3db9-477d-be4b-cb98903abb7e",
+        "chatSessionId": "sess_eef36357-3945-4857-af15-46a1519937cc",
+        "timestamp": 1783655258129
+      },
+      {
+        "executionId": "a916f81c-9d09-4461-a925-57613340f912",
+        "chatSessionId": "sess_eef36357-3945-4857-af15-46a1519937cc",
+        "timestamp": 1783657361710
+      },
+      {
+        "executionId": "a916f81c-9d09-4461-a925-57613340f912",
+        "chatSessionId": "sess_eef36357-3945-4857-af15-46a1519937cc",
+        "timestamp": 1783666388581
+      },
+      {
+        "executionId": "a916f81c-9d09-4461-a925-57613340f912",
+        "chatSessionId": "sess_eef36357-3945-4857-af15-46a1519937cc",
+        "timestamp": 1783667045647
+      }
+    ],
+    "2. Implement the Validator module": [
+      {
+        "executionId": "83aea630-3db9-477d-be4b-cb98903abb7e",
+        "chatSessionId": "sess_eef36357-3945-4857-af15-46a1519937cc",
+        "timestamp": 1783655905984
+      }
+    ],
+    "3. Implement the Storage module": [
+      {
+        "executionId": "83aea630-3db9-477d-be4b-cb98903abb7e",
+        "chatSessionId": "sess_eef36357-3945-4857-af15-46a1519937cc",
+        "timestamp": 1783655966382
+      }
+    ],
+    "4. Implement Renderer helper utilities": [
+      {
+        "executionId": "83aea630-3db9-477d-be4b-cb98903abb7e",
+        "chatSessionId": "sess_eef36357-3945-4857-af15-46a1519937cc",
+        "timestamp": 1783656271495
+      }
+    ],
+    "5. Implement the Renderer module (DOM + Chart)": [
+      {
+        "executionId": "83aea630-3db9-477d-be4b-cb98903abb7e",
+        "chatSessionId": "sess_eef36357-3945-4857-af15-46a1519937cc",
+        "timestamp": 1783656312737
+      }
+    ],
+    "6. Implement the Controller and wire everything together": [
+      {
+        "executionId": "83aea630-3db9-477d-be4b-cb98903abb7e",
+        "chatSessionId": "sess_eef36357-3945-4857-af15-46a1519937cc",
+        "timestamp": 1783656338216
+      }
+    ],
+    "8. Add unit tests for edge cases and structural requirements": [
+      {
+        "executionId": "a916f81c-9d09-4461-a925-57613340f912",
+        "chatSessionId": "sess_eef36357-3945-4857-af15-46a1519937cc",
+        "timestamp": 1783657441153
+      },
+      {
+        "executionId": "a916f81c-9d09-4461-a925-57613340f912",
+        "chatSessionId": "sess_eef36357-3945-4857-af15-46a1519937cc",
+        "timestamp": 1783666382075
+      }
+    ]
+  }
+}
